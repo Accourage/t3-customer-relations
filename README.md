@@ -9,6 +9,5 @@ This repo will contain the deliverables for T1: Business Opportunity &amp; Marke
 - Vu Nguyen (Video Game Programmer)
 
 ## Links
-- [Customer Communication](CUST_COMMS.md)
 - [Customer Relations](CUST_RELATIONS.md)
 - [Customer Service](CUST_SERVICE.md)
